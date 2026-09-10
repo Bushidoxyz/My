@@ -12,14 +12,8 @@ class ExamplePlugin: Plugin() {
     override fun load(context: Context) {
         activity = context as? AppCompatActivity
 
-        // Mevcut sağlayıcılar
+        // Bulgar kanalları
         registerMainAPI(ExampleProvider())
-
-        // Yeni dinamik Inat TV sağlayıcısı
-        registerMainAPI(DynamicLiveProvider())
-
-        // Full Fight Replays VOD (UFC, Boxing, K-1, MMA)
-        registerMainAPI(BushidoMMAProvider())
 
         // Şablonun beraberinde getirdiği BlankFragment ayarlar menüsünü koruyoruz
         openSettings = {

@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Bushidotv/Bushido/master/icon.png",
+        "fileHash": "sha256-088996714146320078802686c3d8c10cca5500c3fe947f21622d052b2bb55ff7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Bushidoxyz/My",
+        "fileSize": 20117,
+        "status": 1,
+        "language": "bg",
+        "authors": [
+            "bushidoxyz"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 29,
+        "internalName": "BushidoBG",
+        "description": "Bushido BG canl\u0131 TV kanallar\u0131.",
+        "url": "https://raw.githubusercontent.com/Bushidoxyz/My/builds/BushidoBG.cs3",
+        "name": "BushidoBG"
+    }
+]

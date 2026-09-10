@@ -1,0 +1,8 @@
+{
+  "name": "Bushido BG",
+  "description": "Bushido BG Cloudstream Eklentisi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Bushidoxyz/My/builds/plugins.json"
+  ]
+}

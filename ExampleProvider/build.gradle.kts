@@ -8,7 +8,7 @@ version = 28
 
 cloudstream {
     // Eklentimizin uygulamanın uzantılar sayfasında görünecek bilgileri
-    description = "Bushido BG & Bushido TR canlı TV kanalları."
+    description = "Bushido BG canlı TV kanalları."
     authors = listOf("bushidoxyz")
 
     /**

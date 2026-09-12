@@ -22,8 +22,7 @@ class ExampleProvider : MainAPI() {
         Pair("kids", "Çocuk Kanalları")
     )
 
-    private val defaultPoster = "https://www.seirsanduk.online/images/logo.png"
-    private val rawLogoBase = "https://raw.githubusercontent.com/Bushidotv/Bushido/master/logos_hd"
+    private val rawLogoBase = "https://raw.githubusercontent.com/Bushidoxyz/My/master/logos_hd"
 
     private val browserHeaders = mapOf(
         "User-Agent" to "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",

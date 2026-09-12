@@ -22,6 +22,7 @@ class ExampleProvider : MainAPI() {
         Pair("kids", "Çocuk Kanalları")
     )
 
+    private val defaultPoster = "https://www.seirsanduk.online/images/logo.png"
     private val rawLogoBase = "https://raw.githubusercontent.com/Bushidoxyz/My/master/logos_hd"
 
     private val browserHeaders = mapOf(
